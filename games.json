@@ -52,5 +52,11 @@
     "title": "Drift Hunters",
     "thumbnail": "https://via.placeholder.com/150/555555/ffffff?text=Drift+Hunters",
     "url": "https://1games.io/game/drift-hunters/"
+  },
+  {
+    "id": "10",
+    "title": "Basket Random",
+    "thumbnail": "https://via.placeholder.com/150/orange/ffffff?text=Basket+Random",
+    "url": "https://html5.gamedistribution.com/bf1268dccb5d43e7970bb3edaa54afc8/?gd_sdk_referrer_url=https://basketrandom.io/basket-random"
   }
 ]
